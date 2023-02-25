@@ -1,0 +1,577 @@
+.bg-secondary {
+    background-color: var(--my-secondary-color) !important;
+}
+
+.bg-primary {
+    background-color: var(--my-primary-color) !important;
+}
+
+.bold-border {
+    border: 1px  var(--my-primary-color) solid !important;
+}
+
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .main-navbar .nav-menu > li .nav-link.active {
+    background-color: var(--my-primary-color);
+}
+
+.rtl .page-main-header .main-header-right .main-header-left {
+    border-radius: 30px 0px 0 0;
+    background: var(--my-primary-color);
+}
+
+.ltr .page-main-header .main-header-right .main-header-left {
+    border-radius: 0 30px 0 0;
+    background: var(--my-primary-color);
+}
+
+.badge-primary {
+    background-color: var(--my-secondary-color);
+}
+
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .sidebar-user img {
+    border: 10px solid rgb(22 100 155 / 20%);
+}
+
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .sidebar-main-title > div h6 {
+    color: var(--my-secondary-color);
+}
+
+.page-main-header .main-header-right .toggle-sidebar {
+    background: white;
+    color: aliceblue;
+}
+
+.profile-greeting {
+    background: var(--my-primary-color);
+}
+
+* a {
+    color: var(--my-primary-color);
+    text-decoration: none;
+}
+
+.setting-primary svg {
+    color: var(--my-primary-color);
+}
+
+
+table.dataTable tbody td.select-checkbox:before, table.dataTable tbody th.select-checkbox:before {
+    border: 2px solid var(--my-secondary-color) !important;
+}
+
+table.dataTable.dtr-column > tbody > tr > td.control:before, table.dataTable.dtr-column > tbody > tr > td.dtr-control:before, table.dataTable.dtr-column > tbody > tr > th.control:before, table.dataTable.dtr-column > tbody > tr > th.dtr-control:before, table.dataTable.dtr-inline.collapsed > tbody > tr > td.dtr-control:before, table.dataTable.dtr-inline.collapsed > tbody > tr > th.dtr-control:before {
+    background-color: var(--my-secondary-color) !important;
+}
+
+
+.page-main-header .main-header-right .toggle-sidebar svg {
+    color: var(--my-primary-color);
+}
+
+.page-main-header .main-header-right .toggle-sidebar:hover svg {
+    color: var(--my-secondary-color);
+}
+
+
+.page-main-header .main-header-right .toggle-sidebar:hover {
+    background-color: white;
+}
+
+
+
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .main-navbar .nav-menu > li .nav-link:hover {
+    background-color: var(--my-secondary-color);
+}
+
+.font-primary {
+    color: var(--my-primary-color) !important;
+}
+
+.font-secondary {
+    color: var(--my-secondary-color) !important;
+}
+
+.font-success {
+    color: var(--my-primary-color) !important;
+}
+
+.setting-primary {
+    background-color: rgba(180, 180, 180, 0.1) !important;
+}
+
+.btn-primary-light {
+    background-color: rgba(180, 180, 180, 0.1) !important;
+}
+
+.page-main-header .main-header-right .nav-right .btn-primary-light svg path {
+    color: var(--my-primary-color);
+}
+
+.box-image {
+    color: var(--my-primary-color) !important;
+    border: 1px solid var(--my-primary-color) !important;
+}
+
+
+.dtp div.dtp-date, .dtp div.dtp-time {
+    background: var(--my-primary-color)!important;
+}
+
+.dtp > .dtp-content > .dtp-date-view > header.dtp-header {
+    background: var(--my-primary-color-dark)!important;
+}
+
+.dtp .dtp-actual-meridien a.selected {
+    background: var(--my-secondary-color)!important;
+}
+
+.swal2-styled.swal2-confirm {
+    background-color: var(--my-secondary-color) !important;
+}
+
+.swal2-actions:not(.swal2-loading) .swal2-styled:hover {
+    background-color: var(--my-secondary-color-dark)!important;
+
+}
+
+
+.swal2-styled.swal2-default-outline:focus {
+    box-shadow: unset !important;
+}
+
+.page-item.active .page-link {
+    background-color: var(--my-secondary-color) !important;
+    border-color: var(--my-secondary-color) !important;
+}
+
+.editor-activate-btn {
+    background: var(--my-primary-color)!important;
+}
+
+
+.editor-desactivate-btn {
+    background: var(--my-secondary-color)!important;
+}
+
+div.DTE_Field select {
+    color: var(--my-primary-color) !important;
+}
+
+.notify-badge {
+    background: var(--my-primary-color) !important;
+}
+
+div.DTE_Field input, div.DTE_Field textarea {
+    color: var(--my-secondary-color-dark) !important;
+}
+
+input[type='radio']:checked:after {
+    background-color: var(--my-secondary-color) !important;
+}
+
+.txt-secondary {
+    color: var(--my-secondary-color) !important;
+}
+
+a:hover {
+    color: var(--my-primary-color);
+}
+
+.setting-primary:hover {
+    background-color: var(--my-primary-color) !important;
+}
+
+.page-main-header .main-header-right .nav-right .btn-primary-light:focus, .page-main-header .main-header-right .nav-right .btn-primary-light:hover {
+    background-color: var(--my-primary-color) !important;
+    color: #fff;
+}
+
+
+.select2-container .select2-selection--single {
+    border-color: var(--my-secondary-color) !important;
+}
+
+.hijri-date-input {
+    border: 1px solid var(--my-secondary-color) !important;
+}
+
+
+.datepicker thead th.prev, .datepicker thead th.datepicker-switch, .datepicker thead th.next {
+    background-color: var(--my-primary-color) !important;
+}
+
+.datepicker thead th.dow {
+    color: var(--my-secondary-color) !important;
+}
+
+.datepicker tbody tr > td.day.selected, .datepicker tbody tr > td.day.selected:hover, .datepicker tbody tr > td.day.active, .datepicker tbody tr > td.day.active:hover {
+    background: var(--my-primary-color) !important;
+}
+
+.datepicker tbody tr > td.day.today {
+    background: var(--my-secondary-color) !important;;
+}
+
+.bootstrap-datetimepicker-widget table th.next::after {
+    background-color: var(--my-primary-color) !important;
+}
+
+.bootstrap-datetimepicker-widget table th.picker-switch {
+    color: var(--my-primary-color) !important;
+}
+
+.datepicker tbody tr > td span.year.focused, .datepicker tbody tr > td span.year.focused:hover, .datepicker tbody tr > td span.year.active:hover, .datepicker tbody tr > td span.year.active.focused:hover, .datepicker tbody tr > td span.year.active,
+.datepicker tbody tr > td span.hour.focused,
+.datepicker tbody tr > td span.hour.focused:hover,
+.datepicker tbody tr > td span.hour.active:hover,
+.datepicker tbody tr > td span.hour.active.focused:hover,
+.datepicker tbody tr > td span.hour.active,
+.datepicker tbody tr > td span.minute.focused,
+.datepicker tbody tr > td span.minute.focused:hover,
+.datepicker tbody tr > td span.minute.active:hover,
+.datepicker tbody tr > td span.minute.active.focused:hover,
+.datepicker tbody tr > td span.minute.active,
+.datepicker tbody tr > td span.month.focused,
+.datepicker tbody tr > td span.month.focused:hover,
+.datepicker tbody tr > td span.month.active:hover,
+.datepicker tbody tr > td span.month.active.focused:hover,
+.datepicker tbody tr > td span.month.active {
+    background: var(--my-primary-color) !important;
+}
+
+.select2-container--default .select2-results__options .select2-results__option[aria-selected=true] {
+    background-color: var(--my-primary-color) !important;
+}
+
+.page-link {
+    /*color: var(--my-primary-color) !important;*/
+}
+
+
+div.DTE_Field input[type=checkbox]:checked + label {
+    background:  var(--my-primary-color) !important;
+}
+
+
+.btn-outline-secondary {
+    border-color: var(--my-secondary-color) !important;
+    color: var(--my-secondary-color) !important;
+}
+
+.btn-outline-secondary:hover, .btn-outline-secondary:focus, .btn-outline-secondary:active, .btn-outline-secondary.active {
+    background-color: var(--my-secondary-color) !important;
+    border-color: var(--my-secondary-color) !important;
+}
+
+.secondary {
+    color:var(--my-secondary-color) !important;
+}
+
+.primary {
+    color: var(--my-primary-color) !important;
+}
+
+.card .additional-top {
+
+    background: linear-gradient(var(--my-primary-color), var(--my-primary-color-light))!important;
+
+
+    /*background: linear-gradient(#189d8a, #6fc5b9);*/
+    /* background: linear-gradient(#871d86, #935492); */
+}
+
+/* --------------- */
+/* --------------- */
+/* --------------- */
+/* --------------- */
+
+
+/* OLD */
+
+/*body {*/
+/*    color: var(--my-primary-color) !important;*/
+/*}*/
+
+.box-infos-header, div.DTE div.DTE_Header {
+    /*backgrounbd-image: url(../../images/background-dark2.png);*/
+    background: var(--my-primary-color) url(../../images/pattern.png) !important;
+}
+
+.quick-link a {
+    background: var(--my-secondary-color) !important;
+}
+
+div#preloader {
+    background: var(--my-primary-color) url(../../images/logo-white.png) no-repeat scroll center center;
+}
+
+.big_btn {
+    background-color: var(--my-primary-color) !important;
+    color: #fff;
+}
+
+.big_btn:hover, .big_btn:active, .big_btn:focus {
+    background-color: var(--my-primary-color-light) !important;
+    color: #fff;
+}
+
+.big_btn_second {
+    background-color: var(--my-secondary-color) !important;
+    color: white;
+}
+
+.big_btn_second:hover, .big_btn_second:active, .big_btn_second:focus {
+    background-color: var(--my-secondary-color-light) !important;
+    color: #fff;
+}
+
+.left_col {
+    background-color: var(--my-primary-color) !important;
+}
+
+.nav_title {
+    background-color: var(--my-primary-color) !important;
+}
+
+
+/*a {*/
+/*    color: var(--my-primary-color);*/
+/*}*/
+
+/*a:focus, a:hover {*/
+/*    color: var(--my-primary-color-dark);*/
+/*}*/
+
+.sidebar-footer {
+    background-color: var(--my-primary-color) !important;
+}
+
+.sidebar-footer a {
+    background-color: var(--my-primary-color-dark) !important;
+
+}
+
+.nav.child_menu {
+    display: none;
+    background-color: var(--my-primary-color-light) !important;
+
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: var(--my-primary-color);
+    border-color: var(--my-primary-color);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--my-secondary-color);
+    border-color: var(--my-secondary-color);
+}
+
+table.dataTable tbody > tr.selected, table.dataTable tbody > tr > .selected {
+    background-color: var(--my-secondary-color) !important;
+    background: var(--my-secondary-color) !important;
+    color: white !important;
+}
+
+.nav.side-menu > li.current-page, .nav.side-menu > li.active {
+    border-left: 5px solid var(--my-primary-color-dark) !important;
+}
+
+
+.nav.side-menu > li.active > a {
+    text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
+    background: var(--my-primary-color-dark) !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255 255 255 0.16) 0 1px 0;
+}
+
+th {
+    background-color: var(--my-primary-color) !important;
+    color: white !important;
+
+}
+
+
+.nav li li.current-page a {
+    background-color: #fafffc;
+    color: var(--my-primary-color) !important;
+}
+
+/*Datatable Editor Themes */
+
+table.dataTable tbody > tr.selected td,
+table.dataTable tbody > tr > .selected td {
+    background-color: var(--my-secondary-color) !important;
+    background: var(--my-secondary-color) !important;
+    color: white !important;
+}
+
+table.dataTable tbody > td.selected, table.dataTable tbody > td > .selected {
+    background-color: var(--my-secondary-color) !important;
+    background: var(--my-secondary-color) !important;
+    color: white !important;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: var(--my-primary-color) !important;
+    border-color: var(--my-primary-color) !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--my-secondary-color) !important;
+    border-color: var(--my-secondary-color) !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: var(--my-secondary-color-light) !important;;
+    border-color: var(--my-secondary-color-light) !important;;
+}
+
+.btn-primary.disabled.focus, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled].focus, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover {
+    background-color: var(--my-secondary-color-light) !important;;
+    border-color: var(--my-secondary-color-light) !important;;
+    color: #999 !important;
+
+}
+
+.btn-primary.active, .btn-primary:active, .open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: var(--my-secondary-color-dark) !important;;
+    border-color: var(--my-secondary-color-dark) !important;;
+}
+
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover {
+    color: #fff;
+    background-color: var(--my-secondary-color-dark) !important;;
+    border-color: var(--my-secondary-color-dark) !important;;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: var(--my-secondary-color-dark) !important;;
+    border-color: var(--my-secondary-color-dark) !important;;
+}
+
+div.dt-button-collection button.dt-button,
+div.dt-button-collection div.dt-button,
+div.dt-button-collection a.dt-button {
+    background: var(--my-secondary-color) !important;;
+}
+
+div.dt-button-collection button.dt-button:active:not(.disabled),
+div.dt-button-collection button.dt-button.active:not(.disabled),
+div.dt-button-collection div.dt-button:active:not(.disabled),
+div.dt-button-collection div.dt-button.active:not(.disabled),
+div.dt-button-collection a.dt-button:active:not(.disabled),
+div.dt-button-collection a.dt-button.active:not(.disabled) {
+    background: var(--my-primary-color) !important;;
+
+}
+
+.btn-sec {
+    color: #fff !important;
+    border-radius: 5px !important;
+
+    background-color: var(--my-secondary-color) !important;;
+    border-color: var(--my-secondary-color) !important;;
+}
+
+
+.btn-prim {
+    color: #fff !important;
+    border-radius: 5px !important;
+    background: var(--my-primary-color) !important;;
+    border-color: var(--my-primary-color) !important;;
+}
+
+
+.DTE_Form_Buttons .btn:not(.btn-sec) {
+
+    color: #fff !important;
+    border-radius: 5px !important;
+    background: var(--my-primary-color) !important;;
+    border-color: var(--my-primary-color) !important;;
+
+    /*margin-bottom: 15px;*/
+}
+
+
+div.DTE button.btn, div.DTE div.DTE_Form_Buttons button {
+    color: #fff;
+    border-radius: 5px;
+    background: var(--my-primary-color) !important;;
+    border-color: var(--my-primary-color) !important;;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: var(--my-secondary-color) !important;
+    color: white !important;
+    border: 1px solid var(--my-secondary-color) !important;
+
+}
+
+.NFI-button {
+    background-color: var(--my-primary-color) !important;;
+    border: solid var(--my-primary-color) 1px;
+
+}
+
+.NFI-button:hover {
+    background: var(--my-secondary-color) !important;;
+    text-shadow: 0px -1px 0px var(--my-secondary-color) !important;;
+    border: solid var(--my-secondary-color) 1px;
+
+}
+
+.tile_count .tile_stats_count {
+    color: var(--my-primary-color) !important;
+}
+
+.btn-success {
+    background: var(--my-primary-color) !important;
+    border: 1px solid var(--my-primary-color) !important;
+}
+
+
+h3 small {
+    color: var(--my-primary-color) !important;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.checkbox-slider--b input:checked + span:before, .checkbox-slider--b-flat input:checked + span:before {
+    background: var(--my-secondary-color) !important;
+}
+
+
+/* Print PDF*/
+
+.header-table b {
+    background: var(--my-primary-color) !important;
+}
+
+.doc-details th {
+    background: var(--my-primary-color) !important;
+}
+
+
+/* Selectize */
+.selectize-control.multi .selectize-input > div {
+    border-radius: 5px;
+    background: var(--my-secondary-color) !important;
+    color: white !important;
+    border: 0 solid #d0d0d0;
+}
+
+.selectize-control.multi .selectize-input > div.active, .selectize-input > div:focus {
+    border-radius: 5px;
+    background: var(--my-primary-color) !important;
+    color: white !important;
+    border: 0 solid #d0d0d0;
+}

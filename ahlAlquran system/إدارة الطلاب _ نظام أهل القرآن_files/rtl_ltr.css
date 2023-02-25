@@ -1,0 +1,33 @@
+/*.rtl div.DTE_Field label {*/
+/*    text-align: right !important;*/
+/*}*/
+
+/*.ltr div.DTE_Field label {*/
+/*    text-align: left !important;*/
+/*}*/
+
+
+.rtl .float-left {
+    float: left !important;
+}
+
+.ltr .float-left {
+    float: right !important;
+}
+
+.min_height_0 {
+    min-height: 0 !important;
+}
+
+.media-body h4 {
+    display: inline;
+}
+
+
+.rtl .logo-wrapper {
+    padding-left: 10px;
+}
+
+.ltr .logo-wrapper {
+    padding-right: 10px;
+}
