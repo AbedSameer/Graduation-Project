@@ -1,0 +1,15 @@
+HomePage
+Notification
+NotificationPage
+StudentPlan
+Person{add,ImportUsersData,ExportUsersData,edit}
+Student {createNewPlan,ViewPlan}
+Memorizer
+Manager
+SuperAdmin
+Record{display}
+Alert{send,}
+VacationRequest{send}
+Controller"is a system responses"
+Login
+Logout
