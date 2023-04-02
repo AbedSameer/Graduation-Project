@@ -11,5 +11,3 @@ Record{display}
 Alert{send,}
 VacationRequest{send}
 Controller"is a system responses"
-Login
-Logout
